@@ -6195,7 +6195,7 @@
 		)
 		(uuid "3bf5f8b6-f9a9-46e6-b6a6-68fdb8d4e7d8")
 	)
-	(label "1V8"
+	(label "1V2"
 		(at 196.85 146.05 0)
 		(fields_autoplaced yes)
 		(effects
@@ -8036,7 +8036,7 @@
 				)
 			)
 		)
-		(property "Value" "MIC5504"
+		(property "Value" "MIC5504-MS"
 			(at 185.42 140.97 0)
 			(effects
 				(font
@@ -8053,7 +8053,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.com/en/products/detail/microchip-technology/MIC5504-1-8YM5-TR/5209404"
+		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20240802/A85BC169CD94B58DB0326F7C46D76917.pdf"
 			(at 177.8 147.32 0)
 			(effects
 				(font
@@ -8071,7 +8071,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "576-4879-1-ND"
+		(property "DK" "C30197547"
 			(at 185.42 147.32 0)
 			(effects
 				(font
@@ -8080,7 +8080,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "MIC5504-1.8YM5-TR"
+		(property "PARTNO" "MIC5504-1.2YM5-TR-MS"
 			(at 185.42 147.32 0)
 			(effects
 				(font
