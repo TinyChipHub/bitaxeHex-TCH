@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 3.1,
-          "height": 5.0,
-          "width": 5.0
+          "drill": 1.4,
+          "height": 2.52,
+          "width": 2.52
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -592,7 +592,7 @@
       "idf": "",
       "netlist": "",
       "plot": "Manufacturing Files/gerbers/",
-      "pos_files": "",
+      "pos_files": "Manufacturing Files/",
       "specctra_dsn": "",
       "step": "",
       "svg": "",
@@ -747,7 +747,7 @@
   "sheets": [
     [
       "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55",
-      "Root"
+      "根目录"
     ],
     [
       "8ec0a9c6-2b78-44ef-a83d-9047d2828409",
@@ -763,15 +763,15 @@
     ],
     [
       "4cf9c075-d009-4c35-9949-adda70ae20c7",
-      "BM1366-1"
+      "BM1368-1"
     ],
     [
       "831c2d7c-1b0c-48f0-8d88-f1b4f08c2544",
-      "BM1366-2"
+      "BM1368-2"
     ],
     [
       "e182566a-9202-4486-8792-212410a9233c",
-      "BM1366-3"
+      "BM1368-3"
     ]
   ],
   "text_variables": {}
