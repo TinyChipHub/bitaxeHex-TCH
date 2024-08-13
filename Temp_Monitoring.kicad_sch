@@ -2618,7 +2618,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "bitaxe:MAX6689UP9A+"
 			(at 166.37 113.03 0)
 			(effects
 				(font
@@ -2627,7 +2627,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/MAX6689.pdf"
 			(at 166.37 113.03 0)
 			(effects
 				(font
