@@ -5086,7 +5086,7 @@
 		)
 		(uuid "1cc57ac8-1b3c-4f58-ae69-4c04884634c7")
 	)
-	(label "1V8"
+	(label "1V2"
 		(at 60.96 157.48 0)
 		(fields_autoplaced yes)
 		(effects
@@ -5548,7 +5548,7 @@
 			)
 		)
 	)
-	(hierarchical_label "1V8_IO"
+	(hierarchical_label "1V2_IO"
 		(shape input)
 		(at 24.13 157.48 180)
 		(fields_autoplaced yes)
@@ -5583,6 +5583,30 @@
 			(justify right)
 		)
 		(uuid "21983b76-b391-49a0-b641-cb1cc3a1f725")
+	)
+	(hierarchical_label "OVERT_TEMP"
+		(shape bidirectional)
+		(at 62.23 88.9 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "2e6b3ac8-d980-4fbe-8555-6c969d2055b7")
+	)
+	(hierarchical_label "ALERT_TEMP"
+		(shape bidirectional)
+		(at 62.23 86.36 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "47dfb016-d7c1-4407-b7be-ab3cddd97125")
 	)
 	(hierarchical_label "SCL"
 		(shape input)
@@ -6725,72 +6749,6 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 62.23 86.36 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "48052e5a-395b-4cee-b6eb-89140812d68a")
-		(property "Reference" "TP12"
-			(at 55.88 86.36 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 56.515 85.0901 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 62.23 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 62.23 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 62.23 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "63a6931e-4599-4810-b23e-a439d881d54e")
-		)
-		(instances
-			(project "bitaxeHex"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/ca857324-2ec8-447e-bd58-90d0c2e6b6d7"
-					(reference "TP12")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
 		(at 194.31 109.22 270)
 		(mirror x)
 		(unit 1)
@@ -7317,72 +7275,6 @@
 			(project "bitaxeHex"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/ca857324-2ec8-447e-bd58-90d0c2e6b6d7"
 					(reference "TP30")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 62.23 88.9 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "6eb49372-39da-4600-bb98-8995c7d296b7")
-		(property "Reference" "TP13"
-			(at 55.88 88.9 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 56.515 87.6301 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 62.23 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 62.23 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 62.23 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "84ddf4a4-862b-4c8b-93e7-a0fbd052c19f")
-		)
-		(instances
-			(project "bitaxeHex"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/ca857324-2ec8-447e-bd58-90d0c2e6b6d7"
-					(reference "TP13")
 					(unit 1)
 				)
 			)
