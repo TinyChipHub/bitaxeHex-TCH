@@ -6348,7 +6348,7 @@
 		)
 		(uuid "3bf5f8b6-f9a9-46e6-b6a6-68fdb8d4e7d8")
 	)
-	(label "1V2"
+	(label "1V8"
 		(at 196.85 146.05 0)
 		(fields_autoplaced yes)
 		(effects
@@ -8224,7 +8224,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "C30197547"
+		(property "DK" "C626116"
 			(at 185.42 147.32 0)
 			(effects
 				(font
@@ -8233,7 +8233,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "MIC5504-1.2YM5-TR-MS"
+		(property "PARTNO" "MIC5504-1.8YM5-TR"
 			(at 185.42 147.32 0)
 			(effects
 				(font

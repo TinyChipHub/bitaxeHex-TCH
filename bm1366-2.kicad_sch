@@ -6714,7 +6714,7 @@
 		)
 		(uuid "52838df7-ef2c-4ee0-b735-3731eb4afb37")
 	)
-	(label "1V2"
+	(label "1V8"
 		(at 97.79 111.76 0)
 		(fields_autoplaced yes)
 		(effects
@@ -6758,7 +6758,7 @@
 		)
 		(uuid "6d3c62c2-184f-44a1-810c-3bdfc51a6f92")
 	)
-	(label "1V2"
+	(label "1V8"
 		(at 83.82 176.53 0)
 		(fields_autoplaced yes)
 		(effects
@@ -6835,7 +6835,7 @@
 		)
 		(uuid "7c2a4a6c-6dc4-4c65-9a17-a6a12391b562")
 	)
-	(label "1V2"
+	(label "1V8"
 		(at 217.17 151.13 180)
 		(fields_autoplaced yes)
 		(effects
@@ -6890,7 +6890,7 @@
 		)
 		(uuid "8b9321e0-e1a7-4663-9ef6-24089c54c429")
 	)
-	(label "1V2"
+	(label "1V8"
 		(at 186.69 148.59 0)
 		(fields_autoplaced yes)
 		(effects
@@ -6912,7 +6912,7 @@
 		)
 		(uuid "90e71b4e-a31a-4fb3-8c33-e0b4b63e3aaa")
 	)
-	(label "1V2"
+	(label "1V8"
 		(at 228.6 111.76 0)
 		(fields_autoplaced yes)
 		(effects
@@ -6945,7 +6945,7 @@
 		)
 		(uuid "a4dad4fb-e458-4282-883d-4c95f62bb02a")
 	)
-	(label "1V2"
+	(label "1V8"
 		(at 53.34 111.76 0)
 		(fields_autoplaced yes)
 		(effects
@@ -7044,7 +7044,7 @@
 		)
 		(uuid "d63fd16c-eee9-48f9-9262-e3a866898636")
 	)
-	(label "1V2"
+	(label "1V8"
 		(at 181.61 111.76 0)
 		(fields_autoplaced yes)
 		(effects
@@ -8686,6 +8686,93 @@
 			(project "bitaxeHex"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/831c2d7c-1b0c-48f0-8d88-f1b4f08c2544"
 					(reference "C90")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_US")
+		(at 77.47 187.96 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4f97c409-d589-479c-a321-2cee31c937c2")
+		(property "Reference" "R38"
+			(at 71.12 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "115k"
+			(at 71.12 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 76.454 187.706 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 77.47 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 77.47 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DK" "YAG2956CT-ND"
+			(at 77.47 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTNO" "RC0402FR-07115KL"
+			(at 77.47 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a9e59e54-0708-4d10-828b-93f248d207b4")
+		)
+		(pin "2"
+			(uuid "b380ea32-3e8d-4efc-ade6-d2c9f155782d")
+		)
+		(instances
+			(project "bitaxeHex"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/831c2d7c-1b0c-48f0-8d88-f1b4f08c2544"
+					(reference "R38")
 					(unit 1)
 				)
 			)
@@ -13350,6 +13437,91 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
+		(at 83.82 181.61 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c5b22c81-3c22-4d1f-8fb5-39dc62f22548")
+		(property "Reference" "R40"
+			(at 83.82 179.07 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "402k"
+			(at 83.82 184.15 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 83.566 182.626 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 83.82 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 83.82 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DK" "YAG3151CT-ND"
+			(at 83.82 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTNO" "RC0402FR-07402KL"
+			(at 83.82 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0090cbc9-e0c7-42ff-ac0d-504ef79e5a61")
+		)
+		(pin "2"
+			(uuid "bb1a75a8-2a0f-4b26-9105-03f77f30b54b")
+		)
+		(instances
+			(project "bitaxeHex"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/831c2d7c-1b0c-48f0-8d88-f1b4f08c2544"
+					(reference "R40")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_US")
 		(at 149.86 45.72 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13711,93 +13883,6 @@
 			(project "bitaxeHex"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/831c2d7c-1b0c-48f0-8d88-f1b4f08c2544"
 					(reference "C85")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_US")
-		(at 77.47 187.96 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "cb3d7704-07bd-4e28-ad7e-4e020e87488a")
-		(property "Reference" "R38"
-			(at 71.12 186.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "110k"
-			(at 71.12 189.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 76.454 187.706 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 77.47 187.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 77.47 187.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DK" "311-110KLRTR-ND"
-			(at 77.47 187.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTNO" "RC0402FR-07110KL"
-			(at 77.47 187.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e982be13-4faf-4c84-b898-bdadec91d6bc")
-		)
-		(pin "2"
-			(uuid "cd6af4fa-da22-4ab3-8f1f-a9a312f0ef65")
-		)
-		(instances
-			(project "bitaxeHex"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/831c2d7c-1b0c-48f0-8d88-f1b4f08c2544"
-					(reference "R38")
 					(unit 1)
 				)
 			)
@@ -14352,91 +14437,6 @@
 			(project "bitaxeHex"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/831c2d7c-1b0c-48f0-8d88-f1b4f08c2544"
 					(reference "R50")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_US")
-		(at 83.82 181.61 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "f5602cf9-33c3-43cc-98bb-14fd19f4b6ed")
-		(property "Reference" "R40"
-			(at 83.82 179.07 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "220k"
-			(at 83.82 184.15 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 83.566 182.626 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 83.82 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 83.82 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DK" "311-220KLRTR-ND"
-			(at 83.82 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTNO" "RC0402FR-07220KL"
-			(at 83.82 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "6d73c022-42b0-495d-b5fb-ffc2b9dd02d9")
-		)
-		(pin "2"
-			(uuid "5dc454ac-816e-4c58-a951-ebfa5166ba67")
-		)
-		(instances
-			(project "bitaxeHex"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/831c2d7c-1b0c-48f0-8d88-f1b4f08c2544"
-					(reference "R40")
 					(unit 1)
 				)
 			)
