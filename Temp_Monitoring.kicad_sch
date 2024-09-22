@@ -1021,7 +1021,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 74.93) (xy 127 88.9)
+			(xy 127 74.93) (xy 127 77.47)
 		)
 		(stroke
 			(width 0)
@@ -1058,6 +1058,26 @@
 			(type default)
 		)
 		(uuid "086cf150-f168-46fb-a8b1-9648b3579cbc")
+	)
+	(wire
+		(pts
+			(xy 149.86 85.09) (xy 149.86 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "09b3d5d0-9414-4ed4-94ec-8cab5662c2dd")
+	)
+	(wire
+		(pts
+			(xy 107.95 85.09) (xy 107.95 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0af3f853-012f-4cf3-bd5b-9eab797f5513")
 	)
 	(wire
 		(pts
@@ -1131,7 +1151,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 74.93) (xy 119.38 88.9)
+			(xy 119.38 74.93) (xy 119.38 77.47)
 		)
 		(stroke
 			(width 0)
@@ -1151,6 +1171,16 @@
 	)
 	(wire
 		(pts
+			(xy 127 85.09) (xy 127 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "36f1f997-14ec-4fdb-a6c6-092e1809c0af")
+	)
+	(wire
+		(pts
 			(xy 186.69 86.36) (xy 191.77 86.36)
 		)
 		(stroke
@@ -1158,6 +1188,16 @@
 			(type default)
 		)
 		(uuid "38b1c470-6d54-4242-865c-6f7728f96e31")
+	)
+	(wire
+		(pts
+			(xy 130.81 85.09) (xy 130.81 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "39d0c0fa-fab6-4c6c-b2ea-aeddddd43d93")
 	)
 	(wire
 		(pts
@@ -1171,7 +1211,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 74.93) (xy 149.86 88.9)
+			(xy 149.86 74.93) (xy 149.86 77.47)
 		)
 		(stroke
 			(width 0)
@@ -1201,6 +1241,16 @@
 	)
 	(wire
 		(pts
+			(xy 138.43 85.09) (xy 138.43 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4c234109-2c1a-4c1a-a746-c30b41330a09")
+	)
+	(wire
+		(pts
 			(xy 176.53 82.55) (xy 222.25 82.55)
 		)
 		(stroke
@@ -1211,7 +1261,7 @@
 	)
 	(wire
 		(pts
-			(xy 138.43 74.93) (xy 138.43 88.9)
+			(xy 138.43 74.93) (xy 138.43 77.47)
 		)
 		(stroke
 			(width 0)
@@ -1331,13 +1381,23 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 74.93) (xy 85.09 88.9)
+			(xy 85.09 74.93) (xy 85.09 77.47)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "760d85db-6292-4ead-bc1f-0137ecc2bcb3")
+	)
+	(wire
+		(pts
+			(xy 142.24 85.09) (xy 142.24 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "76da0832-eb1f-477d-b5a8-7e0c41e0cb89")
 	)
 	(wire
 		(pts
@@ -1351,7 +1411,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 74.93) (xy 96.52 88.9)
+			(xy 96.52 74.93) (xy 96.52 77.47)
 		)
 		(stroke
 			(width 0)
@@ -1381,7 +1441,17 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 74.93) (xy 92.71 88.9)
+			(xy 115.57 85.09) (xy 115.57 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7aef64b1-5411-45cf-87a1-d75f58855782")
+	)
+	(wire
+		(pts
+			(xy 92.71 74.93) (xy 92.71 77.47)
 		)
 		(stroke
 			(width 0)
@@ -1391,7 +1461,7 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 74.93) (xy 115.57 88.9)
+			(xy 115.57 74.93) (xy 115.57 77.47)
 		)
 		(stroke
 			(width 0)
@@ -1451,7 +1521,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 74.93) (xy 142.24 88.9)
+			(xy 142.24 74.93) (xy 142.24 77.47)
 		)
 		(stroke
 			(width 0)
@@ -1491,6 +1561,16 @@
 	)
 	(wire
 		(pts
+			(xy 96.52 85.09) (xy 96.52 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "943335e0-629f-4502-8d7b-ebd354027fbe")
+	)
+	(wire
+		(pts
 			(xy 196.85 86.36) (xy 196.85 87.63)
 		)
 		(stroke
@@ -1511,7 +1591,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 74.93) (xy 104.14 88.9)
+			(xy 104.14 74.93) (xy 104.14 77.47)
 		)
 		(stroke
 			(width 0)
@@ -1528,6 +1608,16 @@
 			(type default)
 		)
 		(uuid "9bf4ddd4-af67-463f-aa59-2577c9193cea")
+	)
+	(wire
+		(pts
+			(xy 104.14 85.09) (xy 104.14 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9e1a67b3-7e85-472c-b54b-d4c9e53e2c67")
 	)
 	(wire
 		(pts
@@ -1548,6 +1638,16 @@
 			(type default)
 		)
 		(uuid "a144a142-7929-45d3-a34e-3b2a4206a250")
+	)
+	(wire
+		(pts
+			(xy 85.09 85.09) (xy 85.09 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a35cadd6-d7b3-4b36-bee3-21746bd3c0c3")
 	)
 	(wire
 		(pts
@@ -1581,7 +1681,17 @@
 	)
 	(wire
 		(pts
-			(xy 107.95 74.93) (xy 107.95 88.9)
+			(xy 92.71 85.09) (xy 92.71 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b604b2e3-9e49-4d32-8119-5ed6bd9607f6")
+	)
+	(wire
+		(pts
+			(xy 107.95 74.93) (xy 107.95 77.47)
 		)
 		(stroke
 			(width 0)
@@ -1641,7 +1751,7 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 74.93) (xy 130.81 88.9)
+			(xy 130.81 74.93) (xy 130.81 77.47)
 		)
 		(stroke
 			(width 0)
@@ -1728,6 +1838,16 @@
 			(type default)
 		)
 		(uuid "e53038d8-a221-4797-a19f-32773adfbfc4")
+	)
+	(wire
+		(pts
+			(xy 119.38 85.09) (xy 119.38 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "edd2e419-4613-4131-a2cf-03349e97f34b")
 	)
 	(wire
 		(pts
@@ -2246,6 +2366,75 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R_US")
+		(at 107.95 81.28 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2a51d7a0-6388-46a7-9d85-6898297e9e87")
+		(property "Reference" "R92"
+			(at 102.362 79.756 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100R"
+			(at 101.6 82.296 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+			(at 108.966 81.534 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "RC0201JR-07100RL"
+			(at 107.95 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "C106229"
+			(at 107.95 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e1a20fc3-622c-4f31-8fb7-fd54e2e4a703")
+		)
+		(pin "2"
+			(uuid "cd572882-2fa3-4ebd-be85-6d1648fa397d")
+		)
+		(instances
+			(project "bitaxeHex"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/3d0507a0-4a6d-4387-a0f1-e9fa71a0954a"
+					(reference "R92")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 134.62 88.9 270)
 		(unit 1)
@@ -2507,6 +2696,351 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R_US")
+		(at 149.86 81.28 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4e4a7894-1ae3-4b6a-b3aa-18ca8ba5f0ac")
+		(property "Reference" "R99"
+			(at 144.272 79.756 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100R"
+			(at 143.51 82.296 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+			(at 150.876 81.534 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "RC0201JR-07100RL"
+			(at 149.86 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "C106229"
+			(at 149.86 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c9b1a24f-ddc6-4a82-bb1c-9f24df5738b8")
+		)
+		(pin "2"
+			(uuid "eefd724f-1910-4671-b6f7-6e09f09ffb07")
+		)
+		(instances
+			(project "bitaxeHex"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/3d0507a0-4a6d-4387-a0f1-e9fa71a0954a"
+					(reference "R99")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_US")
+		(at 85.09 81.28 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4fef0b7a-264c-441f-b524-e14093736d1a")
+		(property "Reference" "R88"
+			(at 79.502 79.756 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100R"
+			(at 78.74 82.296 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+			(at 86.106 81.534 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "RC0201JR-07100RL"
+			(at 85.09 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "C106229"
+			(at 85.09 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9e80288f-0947-41b6-9831-8fc5d25a632e")
+		)
+		(pin "2"
+			(uuid "7ffbcb4c-d747-42f1-a571-0e502257c4c1")
+		)
+		(instances
+			(project "bitaxeHex"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/3d0507a0-4a6d-4387-a0f1-e9fa71a0954a"
+					(reference "R88")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_US")
+		(at 115.57 81.28 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "655316cf-18c8-495d-a9ba-fbdf93b6ecc5")
+		(property "Reference" "R93"
+			(at 109.982 79.756 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100R"
+			(at 109.22 82.296 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+			(at 116.586 81.534 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "RC0201JR-07100RL"
+			(at 115.57 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "C106229"
+			(at 115.57 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "104a8606-4144-40ea-8963-b5f748c39fdd")
+		)
+		(pin "2"
+			(uuid "3c4a7c53-d5e4-421f-8276-5fb88e7e2f22")
+		)
+		(instances
+			(project "bitaxeHex"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/3d0507a0-4a6d-4387-a0f1-e9fa71a0954a"
+					(reference "R93")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_US")
+		(at 104.14 81.28 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "65f0ab6f-4c5c-453a-9733-5ce53a4cc232")
+		(property "Reference" "R91"
+			(at 98.552 79.756 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100R"
+			(at 97.79 82.296 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+			(at 105.156 81.534 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "RC0201JR-07100RL"
+			(at 104.14 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "C106229"
+			(at 104.14 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7cb11e8c-ab2a-44d7-bf32-c3bec52a7d04")
+		)
+		(pin "2"
+			(uuid "c397a3c0-8859-4b78-a443-9ea52b58952c")
+		)
+		(instances
+			(project "bitaxeHex"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/3d0507a0-4a6d-4387-a0f1-e9fa71a0954a"
+					(reference "R91")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_US")
+		(at 130.81 81.28 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "68ec5112-55d9-4f04-a7a3-8427ed664b07")
+		(property "Reference" "R96"
+			(at 125.222 79.756 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100R"
+			(at 124.46 82.296 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+			(at 131.826 81.534 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "RC0201JR-07100RL"
+			(at 130.81 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "C106229"
+			(at 130.81 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7fd12749-c8e2-4520-b8fd-c69c1d5e5624")
+		)
+		(pin "2"
+			(uuid "9b439f7f-a7d8-4de4-9b2f-5f53859c7c18")
+		)
+		(instances
+			(project "bitaxeHex"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/3d0507a0-4a6d-4387-a0f1-e9fa71a0954a"
+					(reference "R96")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 123.19 88.9 270)
 		(unit 1)
@@ -2588,6 +3122,213 @@
 			(project "bitaxeHex"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/3d0507a0-4a6d-4387-a0f1-e9fa71a0954a"
 					(reference "C154")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_US")
+		(at 119.38 81.28 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "77669f71-dae2-4118-9329-de89990eafab")
+		(property "Reference" "R94"
+			(at 113.792 79.756 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100R"
+			(at 113.03 82.296 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+			(at 120.396 81.534 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "RC0201JR-07100RL"
+			(at 119.38 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "C106229"
+			(at 119.38 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "29959806-f28f-4308-a835-7f78ae752a73")
+		)
+		(pin "2"
+			(uuid "9e5b74ed-769a-4648-a86f-9e3781450de4")
+		)
+		(instances
+			(project "bitaxeHex"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/3d0507a0-4a6d-4387-a0f1-e9fa71a0954a"
+					(reference "R94")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_US")
+		(at 138.43 81.28 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "890b107e-acfb-49ac-810a-0e2972656e26")
+		(property "Reference" "R97"
+			(at 132.842 79.756 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100R"
+			(at 132.08 82.296 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+			(at 139.446 81.534 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "RC0201JR-07100RL"
+			(at 138.43 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "C106229"
+			(at 138.43 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "08be6ff5-a0b1-4a6a-9c97-20bc290978e9")
+		)
+		(pin "2"
+			(uuid "ebc3ed10-c6ae-4e23-b7ca-efba4e018a0e")
+		)
+		(instances
+			(project "bitaxeHex"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/3d0507a0-4a6d-4387-a0f1-e9fa71a0954a"
+					(reference "R97")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_US")
+		(at 92.71 81.28 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8ba19186-bb9e-4595-a340-92627998df10")
+		(property "Reference" "R89"
+			(at 87.122 79.756 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100R"
+			(at 86.36 82.296 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+			(at 93.726 81.534 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "RC0201JR-07100RL"
+			(at 92.71 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "C106229"
+			(at 92.71 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "24f3d60b-d43c-40cf-b9e7-152b137ef04f")
+		)
+		(pin "2"
+			(uuid "9c94bd50-518e-42f6-bb03-50c90cb48df0")
+		)
+		(instances
+			(project "bitaxeHex"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/3d0507a0-4a6d-4387-a0f1-e9fa71a0954a"
+					(reference "R89")
 					(unit 1)
 				)
 			)
@@ -2976,6 +3717,144 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R_US")
+		(at 96.52 81.28 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "deb42e7d-78e4-4904-97b3-6ee1382efeb2")
+		(property "Reference" "R90"
+			(at 90.932 79.756 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100R"
+			(at 90.17 82.296 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+			(at 97.536 81.534 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "RC0201JR-07100RL"
+			(at 96.52 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "C106229"
+			(at 96.52 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1c7b2634-357b-493f-8263-5b418251805d")
+		)
+		(pin "2"
+			(uuid "32021fa4-c083-4ff0-8fe4-447995a816bf")
+		)
+		(instances
+			(project "bitaxeHex"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/3d0507a0-4a6d-4387-a0f1-e9fa71a0954a"
+					(reference "R90")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_US")
+		(at 127 81.28 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e132cefc-5692-46cf-9642-0708047e49ad")
+		(property "Reference" "R95"
+			(at 121.412 79.756 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100R"
+			(at 120.65 82.296 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+			(at 128.016 81.534 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "RC0201JR-07100RL"
+			(at 127 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "C106229"
+			(at 127 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "678f2ebe-cdcb-4d4a-8cd9-39a3df0b2af4")
+		)
+		(pin "2"
+			(uuid "462b837f-3fbc-48ef-96ae-196cc45d0da7")
+		)
+		(instances
+			(project "bitaxeHex"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/3d0507a0-4a6d-4387-a0f1-e9fa71a0954a"
+					(reference "R95")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GNDREF")
 		(at 176.53 78.74 180)
 		(unit 1)
@@ -3036,6 +3915,75 @@
 			(project "bitaxeHex"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/3d0507a0-4a6d-4387-a0f1-e9fa71a0954a"
 					(reference "#PWR01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_US")
+		(at 142.24 81.28 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f70d905b-e279-4a73-ac0f-b545985f30c0")
+		(property "Reference" "R98"
+			(at 136.652 79.756 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100R"
+			(at 135.89 82.296 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+			(at 143.256 81.534 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "RC0201JR-07100RL"
+			(at 142.24 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "C106229"
+			(at 142.24 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3788e3a2-f2c7-4fda-9e0d-a8e883b9779a")
+		)
+		(pin "2"
+			(uuid "b58c9410-0aa7-4da3-b090-aaaebef71434")
+		)
+		(instances
+			(project "bitaxeHex"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/3d0507a0-4a6d-4387-a0f1-e9fa71a0954a"
+					(reference "R98")
 					(unit 1)
 				)
 			)
