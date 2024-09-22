@@ -1782,7 +1782,7 @@
 				)
 			)
 		)
-		(symbol "bitaxe:BM1368_mode1"
+		(symbol "bitaxe:BM1370_mode1"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -1795,7 +1795,7 @@
 					(justify left)
 				)
 			)
-			(property "Value" "BM1368_mode1"
+			(property "Value" "BM1370_mode1"
 				(at 1.905 21.59 0)
 				(effects
 					(font
@@ -1804,7 +1804,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "bitaxe:BM1368"
+			(property "Footprint" ""
 				(at 16.51 -33.02 0)
 				(effects
 					(font
@@ -1831,7 +1831,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "BM1368_mode1_0_1"
+			(symbol "BM1370_mode1_0_1"
 				(rectangle
 					(start -15.24 20.32)
 					(end 15.24 -20.32)
@@ -1880,7 +1880,7 @@
 					)
 				)
 			)
-			(symbol "BM1368_mode1_1_1"
+			(symbol "BM1370_mode1_1_1"
 				(pin power_in line
 					(at -17.78 17.78 0)
 					(length 2.54)
@@ -3079,12 +3079,6 @@
 		(uuid "34fb3f00-fb6b-4fb4-81aa-275e0c38d2c2")
 	)
 	(junction
-		(at 201.93 113.03)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "357d609a-0eda-402f-ad97-9c7972d8ad83")
-	)
-	(junction
 		(at 142.24 80.01)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3127,10 +3121,10 @@
 		(uuid "4dc153b0-e7d8-47c4-a09a-f83ac0edd48d")
 	)
 	(junction
-		(at 73.66 113.03)
+		(at 201.93 113.03)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "5a3637ac-7765-45e0-a4a2-780bd76ed451")
+		(uuid "5460ab42-78e3-4bb8-b97f-fa9706e8d76d")
 	)
 	(junction
 		(at 120.65 124.46)
@@ -3293,6 +3287,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "986892de-b277-4f86-8322-29443ce4514e")
+	)
+	(junction
+		(at 73.66 113.03)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9d50f57d-9fa4-45fd-83a5-474ebc68dd3c")
 	)
 	(junction
 		(at 176.53 107.95)
@@ -4073,6 +4073,16 @@
 			(type default)
 		)
 		(uuid "315f0d29-c228-4c51-b656-3c1ba45a71a1")
+	)
+	(wire
+		(pts
+			(xy 73.66 113.03) (xy 73.66 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "32ad4b94-8c6c-4baf-b1d9-182dca75c26d")
 	)
 	(wire
 		(pts
@@ -4976,16 +4986,6 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 113.03) (xy 73.66 124.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "799ad413-61de-4683-9e8e-3cd36b5efcd6")
-	)
-	(wire
-		(pts
 			(xy 26.67 110.49) (xy 26.67 97.79)
 		)
 		(stroke
@@ -5033,16 +5033,6 @@
 			(type default)
 		)
 		(uuid "7e042377-fc55-46ff-9393-2ce42db821e5")
-	)
-	(wire
-		(pts
-			(xy 201.93 113.03) (xy 201.93 124.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7f2d3eb2-7606-4fb0-bde2-7799c5cebb7b")
 	)
 	(wire
 		(pts
@@ -5133,6 +5123,16 @@
 			(type default)
 		)
 		(uuid "86492098-f107-484c-a0ba-691f877d7511")
+	)
+	(wire
+		(pts
+			(xy 201.93 113.03) (xy 201.93 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "86dc2945-7d28-4a7b-9a96-3341665ccfa4")
 	)
 	(wire
 		(pts
@@ -10064,6 +10064,166 @@
 		)
 	)
 	(symbol
+		(lib_id "bitaxe:BM1370_mode1")
+		(at 201.93 90.17 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "59de8e2f-7167-4e4b-ac12-ad91a541694c")
+		(property "Reference" "U27"
+			(at 204.1241 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "BM1370_mode1"
+			(at 204.1241 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "bitaxe:BM1370"
+			(at 218.44 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 194.31 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 201.93 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "25"
+			(uuid "697ebe00-0428-4a8d-82c1-2904a30cb008")
+		)
+		(pin "8"
+			(uuid "2c959324-018d-4d26-aced-a108575a816c")
+		)
+		(pin "16"
+			(uuid "51d69c49-24ef-4b67-a207-6f3f30fc46c1")
+		)
+		(pin "2"
+			(uuid "7791e461-2541-44c8-b87f-1025128d6e70")
+		)
+		(pin "5"
+			(uuid "1f65294e-c1a9-4375-ba29-16046e0d856b")
+		)
+		(pin "10"
+			(uuid "621c311a-1094-458c-9bfe-068d11441c9d")
+		)
+		(pin "9"
+			(uuid "e3e1b5d0-a7a4-4175-8fc7-99f50896a622")
+		)
+		(pin "14"
+			(uuid "cf6086eb-2343-44d6-af74-435cf89f6fa0")
+		)
+		(pin "4"
+			(uuid "064c1b9c-02af-4960-9199-d57f522b42fd")
+		)
+		(pin "21"
+			(uuid "767b28b2-d286-44fb-9442-c46e2f6ee89b")
+		)
+		(pin "17"
+			(uuid "5a6e5a6c-4170-45db-b370-7b5fe9e0ca6a")
+		)
+		(pin "27"
+			(uuid "e7aa2e1e-d8db-4454-b281-4ac05d53ede0")
+		)
+		(pin "6"
+			(uuid "0584902f-9f82-4fa4-91ef-25e363d039ae")
+		)
+		(pin "29"
+			(uuid "58b798d8-6772-4ea2-a603-7738617d8aaf")
+		)
+		(pin "23"
+			(uuid "9947803c-da2c-46e2-96fa-c5362c8a2c5d")
+		)
+		(pin "15"
+			(uuid "e091abef-2728-4124-b927-8b475deb0a31")
+		)
+		(pin "18"
+			(uuid "0e34d1ae-4495-4abe-9b51-ece4601379a2")
+		)
+		(pin "30"
+			(uuid "c973f648-3acb-4659-a15e-24d41edd74de")
+		)
+		(pin "11"
+			(uuid "b321abde-cdba-4af3-be57-9f8db6b28cec")
+		)
+		(pin "24"
+			(uuid "2f93e488-7451-49fc-ac0a-af705b6e4643")
+		)
+		(pin "28"
+			(uuid "12e1af2f-027f-43ad-a490-45bf2c8a11c3")
+		)
+		(pin "32"
+			(uuid "4685eec3-3dae-41df-9b87-1a4490a81794")
+		)
+		(pin "3"
+			(uuid "594ed8ab-4678-4cbf-9a86-c6647ee4885e")
+		)
+		(pin "1"
+			(uuid "d6b170e3-88d7-4975-97c6-eb041dc61aab")
+		)
+		(pin "12"
+			(uuid "cfae15a9-cb64-4f5f-8bfa-e1a6fc02fdf0")
+		)
+		(pin "20"
+			(uuid "af94e44d-7904-44e0-bcfa-b38a98fd62bb")
+		)
+		(pin "7"
+			(uuid "43175f05-098e-4cb2-8e23-ce1fe9725809")
+		)
+		(pin "13"
+			(uuid "2039d80f-41c8-4866-890d-9978f45082f2")
+		)
+		(pin "26"
+			(uuid "e30f5cf4-080b-4d18-8167-82ed209da40f")
+		)
+		(pin "31"
+			(uuid "c40e343c-0ef3-4f42-aaa0-94428f729b4a")
+		)
+		(pin "22"
+			(uuid "a2543828-2b5c-479c-8897-35034a11d3ee")
+		)
+		(pin "19"
+			(uuid "4fda214f-1012-4c72-a13e-471c9f47d2f2")
+		)
+		(instances
+			(project "bitaxeHex"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/e182566a-9202-4486-8792-212410a9233c"
+					(reference "U27")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 149.86 63.5 90)
 		(unit 1)
@@ -12052,166 +12212,6 @@
 		)
 	)
 	(symbol
-		(lib_id "bitaxe:BM1368_mode1")
-		(at 201.93 90.17 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a7e8a25b-9caa-480b-b1a8-76ea609de459")
-		(property "Reference" "U27"
-			(at 204.1241 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "BM1368_mode1"
-			(at 204.1241 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "bitaxe:BM1368"
-			(at 218.44 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 194.31 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 201.93 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "29"
-			(uuid "961c4328-5787-4a6b-a988-2bfd21646e1c")
-		)
-		(pin "27"
-			(uuid "72ade4fd-018a-4074-a367-b28bad467dae")
-		)
-		(pin "10"
-			(uuid "1f427a4f-d881-43d7-8759-6c29f2276142")
-		)
-		(pin "9"
-			(uuid "81210bf8-9251-4c8a-98fd-8bc741ce5c61")
-		)
-		(pin "30"
-			(uuid "5be83ac0-c70b-4733-a16f-aa92db2a8c3a")
-		)
-		(pin "18"
-			(uuid "b144650d-8725-4bac-95ab-3becad51bf5f")
-		)
-		(pin "32"
-			(uuid "d5a6e268-a088-40b0-a37c-74eeb0b5e91f")
-		)
-		(pin "7"
-			(uuid "cba3a45a-0171-45cb-8484-31adb1ad2432")
-		)
-		(pin "31"
-			(uuid "56f0af0a-3834-48a1-a5f8-2daa244b3804")
-		)
-		(pin "11"
-			(uuid "02868828-1602-4ed1-9461-2ef3e10f667a")
-		)
-		(pin "19"
-			(uuid "8a7413c2-532f-4765-a515-46709dc46fd8")
-		)
-		(pin "13"
-			(uuid "81bb2fdc-24e5-4ab8-b0e5-2f31b727d91f")
-		)
-		(pin "16"
-			(uuid "3288d54d-5850-4d84-9b7b-9a7579a21689")
-		)
-		(pin "2"
-			(uuid "b789c96c-fb43-4372-862c-72a8f30f0cd7")
-		)
-		(pin "15"
-			(uuid "a7556151-3fd2-4a18-ad47-c5acf7bff819")
-		)
-		(pin "26"
-			(uuid "9fc07c83-1b1f-4325-b03a-99aeeb94dc14")
-		)
-		(pin "22"
-			(uuid "4ddf3c0e-7c3a-4e33-81d0-6ee04f7dd056")
-		)
-		(pin "5"
-			(uuid "235532fe-ea33-41b9-b190-9b2b8bb531c6")
-		)
-		(pin "20"
-			(uuid "092637f3-77a9-4f36-8ff2-c542069605c8")
-		)
-		(pin "24"
-			(uuid "a40c9e9d-ca08-49b3-b4eb-3a67372029bd")
-		)
-		(pin "1"
-			(uuid "d4385c30-a16d-46f6-9958-4f4c4d043ecd")
-		)
-		(pin "14"
-			(uuid "81152d07-1be1-4f41-9037-fea6d232b935")
-		)
-		(pin "17"
-			(uuid "300c9ce7-61c3-4894-bff9-dfa1489951f7")
-		)
-		(pin "23"
-			(uuid "b1dec8f0-5813-455e-82d3-097b112e315c")
-		)
-		(pin "12"
-			(uuid "1e441793-1bfb-408b-b62a-c16526037871")
-		)
-		(pin "4"
-			(uuid "741eee30-ad7c-432d-9720-45acf424d7f9")
-		)
-		(pin "3"
-			(uuid "f4f8d649-cda8-4c8d-ba1d-8e4829dfca51")
-		)
-		(pin "6"
-			(uuid "e7d98eb9-3c81-41d9-9801-19bf82953f10")
-		)
-		(pin "21"
-			(uuid "aa8b7e3c-2eae-400a-bca0-85a9ce854f33")
-		)
-		(pin "8"
-			(uuid "f06fca17-39a2-4aa5-bbf1-b3ecb4a4c793")
-		)
-		(pin "28"
-			(uuid "8cd3daeb-fb2f-40a6-ba1d-ad9f0c9fd1d7")
-		)
-		(pin "25"
-			(uuid "ff551044-38e6-4e1e-9ea8-554ac49647bd")
-		)
-		(instances
-			(project "bitaxeHex"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/e182566a-9202-4486-8792-212410a9233c"
-					(reference "U27")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector:TestPoint")
 		(at 231.14 90.17 270)
 		(mirror x)
@@ -12279,166 +12279,6 @@
 			(project "bitaxeHex"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/e182566a-9202-4486-8792-212410a9233c"
 					(reference "TP62")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "bitaxe:BM1368_mode1")
-		(at 73.66 90.17 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ab877cfc-5e9c-407b-bc2e-992d7153befc")
-		(property "Reference" "U25"
-			(at 75.8541 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "BM1368_mode1"
-			(at 75.8541 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "bitaxe:BM1368"
-			(at 90.17 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 66.04 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 73.66 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "17"
-			(uuid "fc361e37-d5be-4d58-9f42-8ead2d702b30")
-		)
-		(pin "30"
-			(uuid "b46d0057-03e1-4620-a978-0f96d7c5353d")
-		)
-		(pin "1"
-			(uuid "d792b792-58cb-4176-b7f2-6038585a30ae")
-		)
-		(pin "18"
-			(uuid "f13392aa-30a7-406b-bc90-6d30f5ef1dd4")
-		)
-		(pin "24"
-			(uuid "b9b68259-1b29-46c6-b2bb-3618094e57b4")
-		)
-		(pin "21"
-			(uuid "7460d698-84a9-4b42-ac75-48b72d072c29")
-		)
-		(pin "28"
-			(uuid "099afd9a-581a-4659-ba67-02d9aba571f0")
-		)
-		(pin "11"
-			(uuid "0351742c-75f2-458a-9123-ac6084a277bc")
-		)
-		(pin "5"
-			(uuid "6bc8533c-0013-4615-99b4-b8e6c3ba2af1")
-		)
-		(pin "9"
-			(uuid "332e90f3-68ee-40cc-b064-8a26240dcb7e")
-		)
-		(pin "2"
-			(uuid "31b8b048-cf81-449c-a6a0-5a0b32c20370")
-		)
-		(pin "10"
-			(uuid "18efd973-0ced-4dd6-bbf2-4865a1c476fa")
-		)
-		(pin "23"
-			(uuid "9c50e177-1170-47fc-9de8-5012a198ad87")
-		)
-		(pin "13"
-			(uuid "3013d57a-1bdb-43d9-bb48-4e937b406a49")
-		)
-		(pin "12"
-			(uuid "7320929c-7606-4193-ab0d-ff2932f2e604")
-		)
-		(pin "32"
-			(uuid "6a48faa0-61b8-4b56-bd30-9018c7adebe1")
-		)
-		(pin "7"
-			(uuid "c4e5f598-6be6-4c22-af45-cdbbf2685b92")
-		)
-		(pin "22"
-			(uuid "1fb1365c-4810-4dba-9bc4-65d6420ec984")
-		)
-		(pin "6"
-			(uuid "4b415609-4d37-4a7e-ac0b-b9d647e1b9ca")
-		)
-		(pin "19"
-			(uuid "d03e2782-588f-46fe-a4c2-ae58361b889d")
-		)
-		(pin "26"
-			(uuid "1fc49c89-6124-478f-8d52-0fcdcb67be98")
-		)
-		(pin "31"
-			(uuid "9d75223a-0b0e-4a6a-8d6b-c9d2226dc70f")
-		)
-		(pin "3"
-			(uuid "6be9899c-1129-4cbd-8ee2-d37645e081a6")
-		)
-		(pin "4"
-			(uuid "5a0ea476-0c00-46d4-8c15-fb587158a04b")
-		)
-		(pin "14"
-			(uuid "13c461f2-4e18-48a7-a6dd-58e2dc2796df")
-		)
-		(pin "15"
-			(uuid "79f96c60-46cc-4e9e-adfc-a1de2dded035")
-		)
-		(pin "16"
-			(uuid "02b8033d-4a75-4545-9a61-aeb56f300c7b")
-		)
-		(pin "27"
-			(uuid "4f77e2c7-e37e-43ce-99da-b8439677f9c0")
-		)
-		(pin "29"
-			(uuid "753a7483-d68d-484e-93c7-3de380802a6b")
-		)
-		(pin "25"
-			(uuid "ef164e66-b191-4424-a6cc-e0ec9497254b")
-		)
-		(pin "20"
-			(uuid "531d272a-2b49-4f4a-96d6-102c4857f195")
-		)
-		(pin "8"
-			(uuid "3717dbc7-3fdf-4362-81b1-e14d8d15d031")
-		)
-		(instances
-			(project "bitaxeHex"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/e182566a-9202-4486-8792-212410a9233c"
-					(reference "U25")
 					(unit 1)
 				)
 			)
@@ -14112,6 +13952,166 @@
 			(project "bitaxeHex"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/e182566a-9202-4486-8792-212410a9233c"
 					(reference "C146")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "bitaxe:BM1370_mode1")
+		(at 73.66 90.17 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e3fd65ca-a7a0-49e9-bbd5-b2ffcffbb708")
+		(property "Reference" "U25"
+			(at 75.8541 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "BM1370_mode1"
+			(at 75.8541 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "bitaxe:BM1370"
+			(at 90.17 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 66.04 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 73.66 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "da737633-2d55-4da2-be4d-9a7ec76d909b")
+		)
+		(pin "22"
+			(uuid "802a08a8-6ac4-4362-8e06-1879f77893ae")
+		)
+		(pin "8"
+			(uuid "4b9b41d3-d64e-4ebb-b6c6-33753874feb3")
+		)
+		(pin "9"
+			(uuid "d163642b-1bb8-4aef-b48a-e31bcb48c4a7")
+		)
+		(pin "28"
+			(uuid "f36fe6de-b3b2-467c-9a5e-4f82730824ce")
+		)
+		(pin "25"
+			(uuid "70038985-5699-4f70-8062-cef7223816d4")
+		)
+		(pin "20"
+			(uuid "27fcf801-25fa-4ea6-8314-4a02e7a9a037")
+		)
+		(pin "13"
+			(uuid "13139baa-a706-46d5-a28c-886e7cbf4155")
+		)
+		(pin "6"
+			(uuid "eadd7405-d4a1-4db0-93ab-da5a40bd1846")
+		)
+		(pin "23"
+			(uuid "54946290-1a26-4676-ae84-f8e1702c6798")
+		)
+		(pin "24"
+			(uuid "84eb015b-de6b-4db2-b7f3-6d2312d9db20")
+		)
+		(pin "1"
+			(uuid "d8ab0488-1a97-4cfa-91e6-29c0dba3095a")
+		)
+		(pin "16"
+			(uuid "eab72f00-f4bc-4bad-85ba-4cb435429dec")
+		)
+		(pin "18"
+			(uuid "437385f5-6e13-4ae0-a69a-d3c1ba78c1e5")
+		)
+		(pin "3"
+			(uuid "d78a02f6-e874-44c0-9e04-700fb971dd67")
+		)
+		(pin "32"
+			(uuid "470d842f-8e0f-4ae5-b49a-68687ecc2e90")
+		)
+		(pin "27"
+			(uuid "c3f581b9-8300-477a-b4a2-8f1f8ec9dfa2")
+		)
+		(pin "14"
+			(uuid "5e67c0f6-fbb6-42b6-944a-c348954f754b")
+		)
+		(pin "17"
+			(uuid "0f76e4c4-4e79-4a7a-b12a-a8dc123d8d92")
+		)
+		(pin "19"
+			(uuid "0713eed7-247a-439d-9c1e-564a272bdead")
+		)
+		(pin "10"
+			(uuid "010c9ed0-cbff-43cd-8dd4-096571ac9170")
+		)
+		(pin "11"
+			(uuid "c345ef27-8773-4345-8d07-6fe6b75587bb")
+		)
+		(pin "15"
+			(uuid "7e3ff2ab-d0f9-4f04-90fc-d14006ca6c59")
+		)
+		(pin "12"
+			(uuid "07f1c37b-efe0-4b14-8bfc-585fada47761")
+		)
+		(pin "30"
+			(uuid "42b206de-891f-4a22-ad95-7d0e1bcc3282")
+		)
+		(pin "29"
+			(uuid "fef8f1ff-f790-45a7-99ff-9bda73bc9057")
+		)
+		(pin "21"
+			(uuid "ff4a634f-65cd-4c83-bfbe-391350cc2617")
+		)
+		(pin "4"
+			(uuid "36831c55-c635-4f15-ad37-e7e7e62e6dde")
+		)
+		(pin "31"
+			(uuid "4bd05377-6dc0-468f-9392-2ca7ed09aac1")
+		)
+		(pin "26"
+			(uuid "08918cbf-e827-4a28-9462-513077066561")
+		)
+		(pin "5"
+			(uuid "2825c418-576f-48cc-8c47-c3dce84aa00b")
+		)
+		(pin "7"
+			(uuid "abe6d421-e13b-4602-858c-38aac8123e56")
+		)
+		(instances
+			(project "bitaxeHex"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/e182566a-9202-4486-8792-212410a9233c"
+					(reference "U25")
 					(unit 1)
 				)
 			)
