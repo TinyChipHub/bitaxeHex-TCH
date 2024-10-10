@@ -2052,7 +2052,7 @@
 			)
 		)
 		(path "/54326f9b-43a2-413b-acab-025525ea9251")
-		(sheetname "Root")
+		(sheetname "根目录")
 		(sheetfile "bitaxeHex.kicad_sch")
 		(attr exclude_from_bom)
 		(fp_line
@@ -3047,9 +3047,9 @@
 		)
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/2820f796-4cac-400f-98fe-bd7de85cd06e")
-		(sheetname "Root")
+		(sheetname "根目录")
 		(sheetfile "bitaxeHex.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 3 0)
@@ -3971,7 +3971,7 @@
 		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/83bda8ca-0710-494a-a568-ae0e1cad5396")
-		(sheetname "Root")
+		(sheetname "根目录")
 		(sheetfile "bitaxeHex.kicad_sch")
 		(attr through_hole exclude_from_bom)
 		(fp_circle
@@ -4984,9 +4984,9 @@
 		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/1ca3568a-378f-47e6-b77f-406445b516ce")
-		(sheetname "Root")
+		(sheetname "根目录")
 		(sheetfile "bitaxeHex.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 3 0)
@@ -5160,7 +5160,7 @@
 		)
 		(property ki_fp_filters "Fiducial*")
 		(path "/9ba34247-94d4-4c73-ad3a-a1745d1001e5")
-		(sheetname "Root")
+		(sheetname "根目录")
 		(sheetfile "bitaxeHex.kicad_sch")
 		(attr smd exclude_from_bom)
 		(fp_circle
@@ -6750,7 +6750,7 @@
 		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/7e2807c3-57a7-46c7-9066-b8a6f23ec984")
-		(sheetname "Root")
+		(sheetname "根目录")
 		(sheetfile "bitaxeHex.kicad_sch")
 		(attr through_hole exclude_from_bom)
 		(fp_circle
@@ -9834,7 +9834,7 @@
 		)
 		(fp_arc
 			(start 0.359737 -0.414936)
-			(mid 0.384957 -0.461433)
+			(mid 0.384958 -0.461432)
 			(end 0.424198 -0.496904)
 			(stroke
 				(width 0.02)
@@ -9878,7 +9878,7 @@
 		)
 		(fp_arc
 			(start 0.474614 -0.974489)
-			(mid 0.591798 -1.026679)
+			(mid 0.5918 -1.026672)
 			(end 0.715282 -1.061429)
 			(stroke
 				(width 0.02)
@@ -9922,7 +9922,7 @@
 		)
 		(fp_arc
 			(start 0.715282 -1.061429)
-			(mid 0.835921 -1.075566)
+			(mid 0.835921 -1.075568)
 			(end 0.957213 -1.069086)
 			(stroke
 				(width 0.02)
@@ -9933,7 +9933,7 @@
 		)
 		(fp_arc
 			(start 0.957213 -1.069086)
-			(mid 1.066671 -1.043175)
+			(mid 1.066668 -1.043165)
 			(end 1.169395 -0.997345)
 			(stroke
 				(width 0.02)
@@ -9944,7 +9944,7 @@
 		)
 		(fp_arc
 			(start 1.169395 -0.997345)
-			(mid 1.255372 -0.93528)
+			(mid 1.255375 -0.935281)
 			(end 1.325518 -0.855756)
 			(stroke
 				(width 0.02)
@@ -9955,7 +9955,7 @@
 		)
 		(fp_arc
 			(start 1.325518 -0.855756)
-			(mid 1.365889 -0.787409)
+			(mid 1.365884 -0.787407)
 			(end 1.39521 -0.713643)
 			(stroke
 				(width 0.02)
@@ -9999,7 +9999,7 @@
 		)
 		(fp_arc
 			(start 1.898917 -1.578253)
-			(mid 1.919062 -1.61301)
+			(mid 1.919059 -1.613021)
 			(end 1.949938 -1.638721)
 			(stroke
 				(width 0.02)
@@ -10010,7 +10010,7 @@
 		)
 		(fp_arc
 			(start 1.898918 -1.377761)
-			(mid 1.885663 -1.427107)
+			(mid 1.885667 -1.427108)
 			(end 1.88119 -1.478007)
 			(stroke
 				(width 0.02)
@@ -10021,7 +10021,7 @@
 		)
 		(fp_arc
 			(start 1.949938 -1.638721)
-			(mid 1.997676 -1.65958)
+			(mid 1.997674 -1.659583)
 			(end 2.04876 -1.669789)
 			(stroke
 				(width 0.02)
@@ -10032,7 +10032,7 @@
 		)
 		(fp_arc
 			(start 1.949938 -1.317293)
-			(mid 1.919078 -1.343017)
+			(mid 1.919069 -1.343007)
 			(end 1.898917 -1.377761)
 			(stroke
 				(width 0.02)
@@ -10054,7 +10054,7 @@
 		)
 		(fp_arc
 			(start 2.04876 -1.286225)
-			(mid 1.997675 -1.296431)
+			(mid 1.997668 -1.296415)
 			(end 1.949938 -1.317293)
 			(stroke
 				(width 0.02)
@@ -10087,7 +10087,7 @@
 		)
 		(fp_arc
 			(start 2.413616 -1.669789)
-			(mid 2.464708 -1.6596)
+			(mid 2.464712 -1.659612)
 			(end 2.512438 -1.638721)
 			(stroke
 				(width 0.02)
@@ -10175,7 +10175,7 @@
 		)
 		(fp_arc
 			(start 3.496106 -1.070468)
-			(mid 3.545159 -1.061471)
+			(mid 3.54516 -1.061476)
 			(end 3.593063 -1.047599)
 			(stroke
 				(width 0.02)
@@ -10197,7 +10197,7 @@
 		)
 		(fp_arc
 			(start 3.593063 -1.047599)
-			(mid 3.627632 -1.033104)
+			(mid 3.627628 -1.033097)
 			(end 3.660022 -1.014238)
 			(stroke
 				(width 0.02)
@@ -10219,7 +10219,7 @@
 		)
 		(fp_arc
 			(start 3.660022 -1.014238)
-			(mid 3.675512 -0.996983)
+			(mid 3.675497 -0.996966)
 			(end 3.681188 -0.974489)
 			(stroke
 				(width 0.02)
@@ -10241,7 +10241,7 @@
 		)
 		(fp_arc
 			(start 3.694807 -0.936573)
-			(mid 3.684676 -0.954339)
+			(mid 3.684656 -0.954332)
 			(end 3.681188 -0.974489)
 			(stroke
 				(width 0.02)
@@ -10252,7 +10252,7 @@
 		)
 		(fp_arc
 			(start 3.710143 -0.109007)
-			(mid 3.759229 -0.334681)
+			(mid 3.759236 -0.334678)
 			(end 3.897625 -0.519572)
 			(stroke
 				(width 0.02)
@@ -10285,7 +10285,7 @@
 		)
 		(fp_arc
 			(start 3.76198 0.074433)
-			(mid 3.731358 -0.040358)
+			(mid 3.731353 -0.040357)
 			(end 3.721707 -0.158769)
 			(stroke
 				(width 0.02)
@@ -10296,7 +10296,7 @@
 		)
 		(fp_arc
 			(start 3.786183 -0.932589)
-			(mid 3.757614 -0.923911)
+			(mid 3.757615 -0.923904)
 			(end 3.727901 -0.92097)
 			(stroke
 				(width 0.02)
@@ -10307,7 +10307,7 @@
 		)
 		(fp_arc
 			(start 3.874261 0.256585)
-			(mid 3.808882 0.171203)
+			(mid 3.808885 0.171203)
 			(end 3.76198 0.074433)
 			(stroke
 				(width 0.02)
@@ -10318,7 +10318,7 @@
 		)
 		(fp_arc
 			(start 3.874614 -0.974489)
-			(mid 3.83091 -0.952459)
+			(mid 3.830908 -0.952463)
 			(end 3.786183 -0.932589)
 			(stroke
 				(width 0.02)
@@ -10329,7 +10329,7 @@
 		)
 		(fp_arc
 			(start 3.874614 -0.974489)
-			(mid 3.986133 -1.024398)
+			(mid 3.986132 -1.0244)
 			(end 4.103569 -1.058107)
 			(stroke
 				(width 0.02)
@@ -10340,7 +10340,7 @@
 		)
 		(fp_arc
 			(start 3.897625 -0.519572)
-			(mid 3.9641 -0.557965)
+			(mid 3.964107 -0.557942)
 			(end 4.04009 -0.568887)
 			(stroke
 				(width 0.02)
@@ -10373,7 +10373,7 @@
 		)
 		(fp_arc
 			(start 4.103569 -1.058107)
-			(mid 4.217667 -1.072359)
+			(mid 4.217668 -1.072345)
 			(end 4.332538 -1.067213)
 			(stroke
 				(width 0.02)
@@ -10395,7 +10395,7 @@
 		)
 		(fp_arc
 			(start 4.18172 0.261268)
-			(mid 4.109325 0.306289)
+			(mid 4.109316 0.306263)
 			(end 4.025526 0.321993)
 			(stroke
 				(width 0.02)
@@ -10406,7 +10406,7 @@
 		)
 		(fp_arc
 			(start 4.29362 -0.340656)
-			(mid 4.328296 -0.236336)
+			(mid 4.328295 -0.236337)
 			(end 4.340137 -0.127046)
 			(stroke
 				(width 0.02)
@@ -10428,7 +10428,7 @@
 		)
 		(fp_arc
 			(start 4.332538 -1.067213)
-			(mid 4.444682 -1.04281)
+			(mid 4.444678 -1.042799)
 			(end 4.5511 -0.999832)
 			(stroke
 				(width 0.02)
@@ -10439,7 +10439,7 @@
 		)
 		(fp_arc
 			(start 4.340137 -0.127046)
-			(mid 4.329329 -0.013869)
+			(mid 4.329322 -0.01387)
 			(end 4.297045 0.095143)
 			(stroke
 				(width 0.02)
@@ -10450,7 +10450,7 @@
 		)
 		(fp_arc
 			(start 4.503545 0.774989)
-			(mid 4.305147 0.793827)
+			(mid 4.305147 0.793832)
 			(end 4.106179 0.78249)
 			(stroke
 				(width 0.02)
@@ -10461,7 +10461,7 @@
 		)
 		(fp_arc
 			(start 4.5511 -0.999832)
-			(mid 4.655403 -0.937309)
+			(mid 4.655402 -0.937309)
 			(end 4.749743 -0.860576)
 			(stroke
 				(width 0.02)
@@ -10516,7 +10516,7 @@
 		)
 		(fp_arc
 			(start 4.938684 -0.582136)
-			(mid 4.97104 -0.429878)
+			(mid 4.971035 -0.429877)
 			(end 4.975152 -0.274274)
 			(stroke
 				(width 0.02)
@@ -10560,7 +10560,7 @@
 		)
 		(fp_arc
 			(start 7.210264 -1.667408)
-			(mid 7.320599 -1.675354)
+			(mid 7.320599 -1.675357)
 			(end 7.431188 -1.678007)
 			(stroke
 				(width 0.02)
@@ -10571,7 +10571,7 @@
 		)
 		(fp_arc
 			(start 8.316098 0.366481)
-			(mid 8.298542 0.235353)
+			(mid 8.298546 0.235352)
 			(end 8.289093 0.103392)
 			(stroke
 				(width 0.02)
@@ -10582,7 +10582,7 @@
 		)
 		(fp_arc
 			(start 8.363654 0.547675)
-			(mid 8.335668 0.458183)
+			(mid 8.335666 0.458183)
 			(end 8.316098 0.366481)
 			(stroke
 				(width 0.02)
@@ -10593,7 +10593,7 @@
 		)
 		(fp_arc
 			(start 8.438331 0.66485)
-			(mid 8.394596 0.610341)
+			(mid 8.394595 0.61034)
 			(end 8.363654 0.547675)
 			(stroke
 				(width 0.02)
@@ -10615,7 +10615,7 @@
 		)
 		(fp_arc
 			(start 8.603054 0.769665)
-			(mid 8.514947 0.726289)
+			(mid 8.514946 0.726288)
 			(end 8.438331 0.66485)
 			(stroke
 				(width 0.02)
@@ -10637,7 +10637,7 @@
 		)
 		(fp_arc
 			(start 8.824802 0.815889)
-			(mid 8.712278 0.800692)
+			(mid 8.712277 0.800694)
 			(end 8.603054 0.769665)
 			(stroke
 				(width 0.02)
@@ -10681,7 +10681,7 @@
 		)
 		(fp_arc
 			(start 9.066002 0.798854)
-			(mid 8.945972 0.815438)
+			(mid 8.945972 0.815444)
 			(end 8.824802 0.815889)
 			(stroke
 				(width 0.02)
@@ -10703,7 +10703,7 @@
 		)
 		(fp_arc
 			(start 9.287762 0.718475)
-			(mid 9.17977 0.766632)
+			(mid 9.179769 0.766631)
 			(end 9.066002 0.798854)
 			(stroke
 				(width 0.02)
@@ -10736,7 +10736,7 @@
 		)
 		(fp_arc
 			(start 9.376194 0.676575)
-			(mid 9.404761 0.667888)
+			(mid 9.40476 0.667884)
 			(end 9.434475 0.664956)
 			(stroke
 				(width 0.02)
@@ -10747,7 +10747,7 @@
 		)
 		(fp_arc
 			(start 9.41818 0.141753)
-			(mid 9.380795 0.213808)
+			(mid 9.380805 0.213813)
 			(end 9.324667 0.272448)
 			(stroke
 				(width 0.02)
@@ -10769,7 +10769,7 @@
 		)
 		(fp_arc
 			(start 9.467569 0.680559)
-			(mid 9.477695 0.698324)
+			(mid 9.477711 0.69832)
 			(end 9.481188 0.718475)
 			(stroke
 				(width 0.02)
@@ -10780,7 +10780,7 @@
 		)
 		(fp_arc
 			(start 9.467948 -0.105237)
-			(mid 9.451566 0.019971)
+			(mid 9.451564 0.01997)
 			(end 9.41818 0.141753)
 			(stroke
 				(width 0.02)
@@ -10813,7 +10813,7 @@
 		)
 		(fp_arc
 			(start 9.697083 0.814479)
-			(mid 9.640038 0.805518)
+			(mid 9.640038 0.80552)
 			(end 9.584001 0.791584)
 			(stroke
 				(width 0.02)
@@ -10846,7 +10846,7 @@
 		)
 		(fp_arc
 			(start 10.987849 0.81277)
-			(mid 10.930537 0.819688)
+			(mid 10.930537 0.819685)
 			(end 10.872855 0.821993)
 			(stroke
 				(width 0.02)
@@ -10857,7 +10857,7 @@
 		)
 		(fp_arc
 			(start 11.092308 0.785274)
-			(mid 11.040747 0.801562)
+			(mid 11.040746 0.801557)
 			(end 10.987849 0.81277)
 			(stroke
 				(width 0.02)
@@ -10868,7 +10868,7 @@
 		)
 		(fp_arc
 			(start 11.150194 -1.667828)
-			(mid 11.197234 -1.653884)
+			(mid 11.197247 -1.653911)
 			(end 11.235355 -1.623007)
 			(stroke
 				(width 0.02)
@@ -10879,7 +10879,7 @@
 		)
 		(fp_arc
 			(start 11.172205 0.744995)
-			(mid 11.13339 0.767382)
+			(mid 11.133388 0.767378)
 			(end 11.092308 0.785274)
 			(stroke
 				(width 0.02)
@@ -10901,7 +10901,7 @@
 		)
 		(fp_arc
 			(start 11.210355 0.696993)
-			(mid 11.223299 0.667483)
+			(mid 11.223296 0.667481)
 			(end 11.239794 0.6398)
 			(stroke
 				(width 0.02)
@@ -10956,7 +10956,7 @@
 		)
 		(fp_arc
 			(start 11.304752 0.028017)
-			(mid 11.280991 -0.089844)
+			(mid 11.280979 -0.089843)
 			(end 11.27529 -0.209941)
 			(stroke
 				(width 0.02)
@@ -10967,7 +10967,7 @@
 		)
 		(fp_arc
 			(start 11.306188 -0.950507)
-			(mid 11.290611 -1.003706)
+			(mid 11.290606 -1.003706)
 			(end 11.285422 -1.058897)
 			(stroke
 				(width 0.02)
@@ -10989,7 +10989,7 @@
 		)
 		(fp_arc
 			(start 11.320592 -0.436454)
-			(mid 11.363539 -0.506757)
+			(mid 11.363522 -0.506774)
 			(end 11.428658 -0.557214)
 			(stroke
 				(width 0.02)
@@ -11011,7 +11011,7 @@
 		)
 		(fp_arc
 			(start 11.393794 0.208587)
-			(mid 11.340975 0.122394)
+			(mid 11.340972 0.122396)
 			(end 11.304752 0.028017)
 			(stroke
 				(width 0.02)
@@ -11066,7 +11066,7 @@
 		)
 		(fp_arc
 			(start 11.542162 -1.0412)
-			(mid 11.644585 -1.063921)
+			(mid 11.644585 -1.063919)
 			(end 11.749041 -1.073704)
 			(stroke
 				(width 0.02)
@@ -11077,7 +11077,7 @@
 		)
 		(fp_arc
 			(start 11.5727 0.795903)
-			(mid 11.474152 0.75862)
+			(mid 11.474144 0.758633)
 			(end 11.388688 0.696993)
 			(stroke
 				(width 0.02)
@@ -11088,7 +11088,7 @@
 		)
 		(fp_arc
 			(start 11.590995 -0.577181)
-			(mid 11.677745 -0.542589)
+			(mid 11.677736 -0.542576)
 			(end 11.750695 -0.484276)
 			(stroke
 				(width 0.02)
@@ -11099,7 +11099,7 @@
 		)
 		(fp_arc
 			(start 11.687395 0.225781)
-			(mid 11.606981 0.260236)
+			(mid 11.606977 0.260219)
 			(end 11.520289 0.271993)
 			(stroke
 				(width 0.02)
@@ -11110,7 +11110,7 @@
 		)
 		(fp_arc
 			(start 11.749041 -1.073704)
-			(mid 11.862536 -1.070526)
+			(mid 11.862536 -1.070527)
 			(end 11.974875 -1.054056)
 			(stroke
 				(width 0.02)
@@ -11121,7 +11121,7 @@
 		)
 		(fp_arc
 			(start 11.750695 -0.484276)
-			(mid 11.808246 -0.40432)
+			(mid 11.808232 -0.404315)
 			(end 11.844008 -0.312529)
 			(stroke
 				(width 0.02)
@@ -11132,7 +11132,7 @@
 		)
 		(fp_arc
 			(start 11.809056 0.099933)
-			(mid 11.756548 0.170906)
+			(mid 11.75655 0.170905)
 			(end 11.687395 0.225781)
 			(stroke
 				(width 0.02)
@@ -11165,7 +11165,7 @@
 		)
 		(fp_arc
 			(start 11.86446 -0.089642)
-			(mid 11.847294 0.008224)
+			(mid 11.847311 0.008231)
 			(end 11.809056 0.099933)
 			(stroke
 				(width 0.02)
@@ -11176,7 +11176,7 @@
 		)
 		(fp_arc
 			(start 11.974875 -1.054056)
-			(mid 12.077056 -1.025098)
+			(mid 12.077058 -1.025105)
 			(end 12.174047 -0.981829)
 			(stroke
 				(width 0.02)
@@ -11187,7 +11187,7 @@
 		)
 		(fp_arc
 			(start 12.079498 0.756141)
-			(mid 11.95398 0.795102)
+			(mid 11.953978 0.795094)
 			(end 11.824076 0.815047)
 			(stroke
 				(width 0.02)
@@ -11198,7 +11198,7 @@
 		)
 		(fp_arc
 			(start 12.174047 -0.981829)
-			(mid 12.326299 -0.864255)
+			(mid 12.326312 -0.864262)
 			(end 12.431864 -0.703442)
 			(stroke
 				(width 0.02)
@@ -11220,7 +11220,7 @@
 		)
 		(fp_arc
 			(start 12.431864 -0.703442)
-			(mid 12.508755 -0.476578)
+			(mid 12.508767 -0.476581)
 			(end 12.544777 -0.239763)
 			(stroke
 				(width 0.02)
@@ -11231,7 +11231,7 @@
 		)
 		(fp_arc
 			(start 12.492593 0.256393)
-			(mid 12.408025 0.455967)
+			(mid 12.408029 0.455968)
 			(end 12.27561 0.627571)
 			(stroke
 				(width 0.02)
@@ -12884,7 +12884,7 @@
 		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/d4353634-d4f2-41be-866c-99509d5f6925")
-		(sheetname "Root")
+		(sheetname "根目录")
 		(sheetfile "bitaxeHex.kicad_sch")
 		(attr through_hole exclude_from_bom)
 		(fp_circle
@@ -13111,7 +13111,7 @@
 		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/cb510c1e-ccfa-4e48-8454-56a46a27d688")
-		(sheetname "Root")
+		(sheetname "根目录")
 		(sheetfile "bitaxeHex.kicad_sch")
 		(attr through_hole exclude_from_bom)
 		(fp_circle
@@ -14320,7 +14320,7 @@
 		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/923aa283-a76a-41e2-ba28-d8b53ed4d108")
-		(sheetname "Root")
+		(sheetname "根目录")
 		(sheetfile "bitaxeHex.kicad_sch")
 		(attr through_hole exclude_from_bom)
 		(fp_circle
@@ -14434,7 +14434,7 @@
 		)
 		(property ki_fp_filters "Fiducial*")
 		(path "/ef8f4678-a0c0-449c-94c7-61e80457600a")
-		(sheetname "Root")
+		(sheetname "根目录")
 		(sheetfile "bitaxeHex.kicad_sch")
 		(attr smd exclude_from_bom)
 		(fp_circle
@@ -16496,7 +16496,7 @@
 		)
 		(property ki_fp_filters "Fiducial*")
 		(path "/54da25ee-70f9-44e5-9072-03aa0542783f")
-		(sheetname "Root")
+		(sheetname "根目录")
 		(sheetfile "bitaxeHex.kicad_sch")
 		(attr smd exclude_from_bom)
 		(fp_circle
@@ -17228,7 +17228,7 @@
 		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/fb162ab5-eaf7-4c8b-96e9-7ac2e86649dc")
-		(sheetname "Root")
+		(sheetname "根目录")
 		(sheetfile "bitaxeHex.kicad_sch")
 		(attr through_hole exclude_from_bom)
 		(fp_circle
@@ -18080,7 +18080,7 @@
 		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/52c0114f-2332-4e2e-97ec-568d02549282")
-		(sheetname "Root")
+		(sheetname "根目录")
 		(sheetfile "bitaxeHex.kicad_sch")
 		(attr through_hole exclude_from_bom)
 		(fp_circle
@@ -18195,7 +18195,7 @@
 		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/b943567f-4ccd-478b-8def-84ca0e6fedd7")
-		(sheetname "Root")
+		(sheetname "根目录")
 		(sheetfile "bitaxeHex.kicad_sch")
 		(attr through_hole exclude_from_bom)
 		(fp_circle
@@ -19575,7 +19575,7 @@
 		)
 		(property ki_fp_filters "Fiducial*")
 		(path "/12e1fbc5-fcf8-417f-986b-bf9626300367")
-		(sheetname "Root")
+		(sheetname "根目录")
 		(sheetfile "bitaxeHex.kicad_sch")
 		(attr smd exclude_from_bom)
 		(fp_circle
@@ -19922,7 +19922,7 @@
 		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/5cb93d8d-b738-47cd-8e8e-e04e391772ae")
-		(sheetname "Root")
+		(sheetname "根目录")
 		(sheetfile "bitaxeHex.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
@@ -21246,6 +21246,164 @@
 			)
 		)
 	)
+	(footprint "bitaxe:824045812"
+		(layer "F.Cu")
+		(uuid "cf00f422-5ad5-4384-ad74-ce71288d0e2c")
+		(at 64.4575 61.14)
+		(property "Reference" "D1"
+			(at -0.2 4.49 0)
+			(unlocked yes)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "ebd796cb-2ca4-4172-be65-621db85efb40")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Value" "824045812"
+			(at -0.02 -1.31 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "7f71bd75-c96b-4b41-bf3f-4c669bc9e7b7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "bitaxe:824045812"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "af1f027b-eac7-427e-8ddc-14bd2bbcc24c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9437e5e1-2ca4-4bb6-90ce-0a31fc899e9e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2933f1d7-81ed-4e77-a9ae-b63835088c36")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLC" "C26174720"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4d01e4d2-a868-4f48-860c-41344dcd9d3c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/8ec0a9c6-2b78-44ef-a83d-9047d2828409/be3310b6-ae73-4071-b03e-858aa4b25958")
+		(sheetname "Power")
+		(sheetfile "power.kicad_sch")
+		(attr smd)
+		(fp_line
+			(start -1.1 -0.62)
+			(end -1.1 0.59)
+			(stroke
+				(width 0.1)
+				(type default)
+			)
+			(layer "F.SilkS")
+			(uuid "de82633c-a2fb-45d4-b7ec-bb3b3a2bd496")
+		)
+		(fp_line
+			(start -1.1 0.59)
+			(end 1.1 0.6)
+			(stroke
+				(width 0.1)
+				(type default)
+			)
+			(layer "F.SilkS")
+			(uuid "47365441-8b31-4bcb-80a9-194ff10909bd")
+		)
+		(fp_line
+			(start -0.98 -0.62)
+			(end -1.1 -0.62)
+			(stroke
+				(width 0.1)
+				(type default)
+			)
+			(layer "F.SilkS")
+			(uuid "f8ffb969-c26e-4933-8bc7-fc5a395c5f8c")
+		)
+		(fp_line
+			(start -0.98 -0.62)
+			(end 1.1 -0.62)
+			(stroke
+				(width 0.1)
+				(type default)
+			)
+			(layer "F.SilkS")
+			(uuid "5c45b250-c4a5-4460-9d49-5dd949d2fa51")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 2.5 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "14d899af-874c-44ad-8f12-308e2643c0bd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "1" smd rect
+			(at -0.6125 0)
+			(size 0.625 1)
+			(layers "F.Cu" "F.Paste" "F.Mask" "Dwgs.User")
+			(net 55 "/VIN")
+			(pinfunction "I/O")
+			(pintype "input")
+			(thermal_bridge_angle 45)
+			(uuid "ceb1c529-7247-45b1-9a18-919e1845d17d")
+		)
+		(pad "2" smd rect
+			(at 0.6125 0)
+			(size 0.625 1)
+			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 1 "GND")
+			(pinfunction "GND")
+			(pintype "output")
+			(thermal_bridge_angle 45)
+			(uuid "799d4655-c873-4325-8e2f-32d2e7509826")
+		)
+	)
 	(footprint "MountingHole:MountingHole_3mm_Pad_Via"
 		(layer "F.Cu")
 		(uuid "cf70573e-383e-4277-80ef-72542b377190")
@@ -21313,9 +21471,9 @@
 		)
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/38ead769-7ddf-44f0-a763-4cb91296c8cc")
-		(sheetname "Root")
+		(sheetname "根目录")
 		(sheetfile "bitaxeHex.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 3 0)
@@ -24134,7 +24292,7 @@
 		)
 		(fp_arc
 			(start 0.117782 -2.250041)
-			(mid 0.164794 -2.236388)
+			(mid 0.164795 -2.236388)
 			(end 0.203316 -2.206177)
 			(stroke
 				(width 0.02)
@@ -24178,7 +24336,7 @@
 		)
 		(fp_arc
 			(start 0.328549 -0.996929)
-			(mid 0.353755 -1.043438)
+			(mid 0.353753 -1.043439)
 			(end 0.39301 -1.078897)
 			(stroke
 				(width 0.02)
@@ -24222,7 +24380,7 @@
 		)
 		(fp_arc
 			(start 0.443426 -1.556482)
-			(mid 0.560611 -1.608669)
+			(mid 0.560614 -1.608661)
 			(end 0.684094 -1.643422)
 			(stroke
 				(width 0.02)
@@ -24288,7 +24446,7 @@
 		)
 		(fp_arc
 			(start 1.138207 -1.579338)
-			(mid 1.224177 -1.517265)
+			(mid 1.224181 -1.517269)
 			(end 1.29433 -1.437749)
 			(stroke
 				(width 0.02)
@@ -24299,7 +24457,7 @@
 		)
 		(fp_arc
 			(start 1.29433 -1.437749)
-			(mid 1.334704 -1.369403)
+			(mid 1.334694 -1.369399)
 			(end 1.364022 -1.295636)
 			(stroke
 				(width 0.02)
@@ -24343,7 +24501,7 @@
 		)
 		(fp_arc
 			(start 1.867729 -2.160246)
-			(mid 1.88787 -2.195014)
+			(mid 1.887891 -2.194991)
 			(end 1.91875 -2.220714)
 			(stroke
 				(width 0.02)
@@ -24354,7 +24512,7 @@
 		)
 		(fp_arc
 			(start 1.86773 -1.959754)
-			(mid 1.854459 -2.009098)
+			(mid 1.854454 -2.009097)
 			(end 1.850002 -2.06)
 			(stroke
 				(width 0.02)
@@ -24365,7 +24523,7 @@
 		)
 		(fp_arc
 			(start 1.91875 -2.220714)
-			(mid 1.966486 -2.241579)
+			(mid 1.966486 -2.241577)
 			(end 2.017572 -2.251782)
 			(stroke
 				(width 0.02)
@@ -24398,7 +24556,7 @@
 		)
 		(fp_arc
 			(start 2.017572 -1.868218)
-			(mid 1.966487 -1.878425)
+			(mid 1.966486 -1.878426)
 			(end 1.91875 -1.899286)
 			(stroke
 				(width 0.02)
@@ -24431,7 +24589,7 @@
 		)
 		(fp_arc
 			(start 2.382428 -2.251782)
-			(mid 2.433513 -2.241575)
+			(mid 2.433514 -2.241574)
 			(end 2.48125 -2.220714)
 			(stroke
 				(width 0.02)
@@ -24453,7 +24611,7 @@
 		)
 		(fp_arc
 			(start 2.48125 -2.220714)
-			(mid 2.512126 -2.195006)
+			(mid 2.512129 -2.19501)
 			(end 2.532271 -2.160246)
 			(stroke
 				(width 0.02)
@@ -24464,7 +24622,7 @@
 		)
 		(fp_arc
 			(start 2.48125 -1.899286)
-			(mid 2.433508 -1.87844)
+			(mid 2.43351 -1.878437)
 			(end 2.382428 -1.868218)
 			(stroke
 				(width 0.02)
@@ -24519,7 +24677,7 @@
 		)
 		(fp_arc
 			(start 3.464918 -1.652461)
-			(mid 3.513973 -1.643473)
+			(mid 3.513973 -1.643471)
 			(end 3.561875 -1.629592)
 			(stroke
 				(width 0.02)
@@ -24585,7 +24743,7 @@
 		)
 		(fp_arc
 			(start 3.663619 -1.518566)
-			(mid 3.653501 -1.536335)
+			(mid 3.653521 -1.536342)
 			(end 3.65 -1.556482)
 			(stroke
 				(width 0.02)
@@ -24596,7 +24754,7 @@
 		)
 		(fp_arc
 			(start 3.678955 -0.691)
-			(mid 3.728036 -0.916677)
+			(mid 3.728036 -0.916676)
 			(end 3.866437 -1.101565)
 			(stroke
 				(width 0.02)
@@ -24607,7 +24765,7 @@
 		)
 		(fp_arc
 			(start 3.690519 -0.740762)
-			(mid 3.70434 -0.847255)
+			(mid 3.70434 -0.847253)
 			(end 3.74323 -0.947351)
 			(stroke
 				(width 0.02)
@@ -24640,7 +24798,7 @@
 		)
 		(fp_arc
 			(start 3.754995 -1.514582)
-			(mid 3.726425 -1.505912)
+			(mid 3.726426 -1.505901)
 			(end 3.696713 -1.502963)
 			(stroke
 				(width 0.02)
@@ -24651,7 +24809,7 @@
 		)
 		(fp_arc
 			(start 3.843073 -0.325408)
-			(mid 3.77768 -0.410782)
+			(mid 3.777683 -0.410782)
 			(end 3.730792 -0.50756)
 			(stroke
 				(width 0.02)
@@ -24662,7 +24820,7 @@
 		)
 		(fp_arc
 			(start 3.843426 -1.556482)
-			(mid 3.799721 -1.534454)
+			(mid 3.799719 -1.534458)
 			(end 3.754995 -1.514582)
 			(stroke
 				(width 0.02)
@@ -24684,7 +24842,7 @@
 		)
 		(fp_arc
 			(start 3.866437 -1.101565)
-			(mid 3.9329 -1.140012)
+			(mid 3.932892 -1.140035)
 			(end 4.008902 -1.15088)
 			(stroke
 				(width 0.02)
@@ -24717,7 +24875,7 @@
 		)
 		(fp_arc
 			(start 4.072381 -1.6401)
-			(mid 4.18648 -1.654346)
+			(mid 4.186479 -1.654344)
 			(end 4.30135 -1.649206)
 			(stroke
 				(width 0.02)
@@ -24772,7 +24930,7 @@
 		)
 		(fp_arc
 			(start 4.30135 -1.649206)
-			(mid 4.413494 -1.624802)
+			(mid 4.413493 -1.624797)
 			(end 4.519912 -1.581825)
 			(stroke
 				(width 0.02)
@@ -24794,7 +24952,7 @@
 		)
 		(fp_arc
 			(start 4.472357 0.192996)
-			(mid 4.273959 0.211845)
+			(mid 4.273959 0.211857)
 			(end 4.074991 0.200497)
 			(stroke
 				(width 0.02)
@@ -24827,7 +24985,7 @@
 		)
 		(fp_arc
 			(start 4.743485 0.050425)
-			(mid 4.619199 0.143164)
+			(mid 4.619202 0.143162)
 			(end 4.472357 0.192996)
 			(stroke
 				(width 0.02)
@@ -24838,7 +24996,7 @@
 		)
 		(fp_arc
 			(start 4.834148 -1.30734)
-			(mid 4.87434 -1.237751)
+			(mid 4.874337 -1.23775)
 			(end 4.903773 -1.162973)
 			(stroke
 				(width 0.02)
@@ -24849,7 +25007,7 @@
 		)
 		(fp_arc
 			(start 4.900085 -0.239464)
-			(mid 4.842028 -0.083586)
+			(mid 4.842016 -0.083592)
 			(end 4.743485 0.050425)
 			(stroke
 				(width 0.02)
@@ -24860,7 +25018,7 @@
 		)
 		(fp_arc
 			(start 4.907496 -1.164129)
-			(mid 4.939854 -1.011871)
+			(mid 4.939856 -1.011871)
 			(end 4.943964 -0.856267)
 			(stroke
 				(width 0.02)
@@ -24915,7 +25073,7 @@
 		)
 		(fp_arc
 			(start 8.28491 -0.215512)
-			(mid 8.267353 -0.34664)
+			(mid 8.267354 -0.34664)
 			(end 8.257905 -0.478601)
 			(stroke
 				(width 0.02)
@@ -24926,7 +25084,7 @@
 		)
 		(fp_arc
 			(start 8.332466 -0.034318)
-			(mid 8.304474 -0.123809)
+			(mid 8.304467 -0.123807)
 			(end 8.28491 -0.215512)
 			(stroke
 				(width 0.02)
@@ -24970,7 +25128,7 @@
 		)
 		(fp_arc
 			(start 8.733025 -1.644977)
-			(mid 8.778412 -1.62636)
+			(mid 8.778399 -1.626358)
 			(end 8.811158 -1.589848)
 			(stroke
 				(width 0.02)
@@ -24981,7 +25139,7 @@
 		)
 		(fp_arc
 			(start 8.793614 0.233896)
-			(mid 8.681088 0.21871)
+			(mid 8.68109 0.2187)
 			(end 8.571866 0.187672)
 			(stroke
 				(width 0.02)
@@ -25003,7 +25161,7 @@
 		)
 		(fp_arc
 			(start 8.913008 -0.44024)
-			(mid 8.874449 -0.589768)
+			(mid 8.874443 -0.589766)
 			(end 8.861506 -0.743642)
 			(stroke
 				(width 0.02)
@@ -25025,7 +25183,7 @@
 		)
 		(fp_arc
 			(start 9.034814 0.216861)
-			(mid 8.914783 0.23344)
+			(mid 8.914783 0.233434)
 			(end 8.793614 0.233896)
 			(stroke
 				(width 0.02)
@@ -25113,7 +25271,7 @@
 		)
 		(fp_arc
 			(start 9.436381 0.098566)
-			(mid 9.446482 0.116339)
+			(mid 9.446492 0.116341)
 			(end 9.45 0.136482)
 			(stroke
 				(width 0.02)
@@ -25124,7 +25282,7 @@
 		)
 		(fp_arc
 			(start 9.43676 -0.68723)
-			(mid 9.420387 -0.56202)
+			(mid 9.420386 -0.56202)
 			(end 9.386992 -0.44024)
 			(stroke
 				(width 0.02)
@@ -25146,7 +25304,7 @@
 		)
 		(fp_arc
 			(start 9.552813 0.209592)
-			(mid 9.512255 0.195143)
+			(mid 9.512256 0.195141)
 			(end 9.473507 0.176372)
 			(stroke
 				(width 0.02)
@@ -25157,7 +25315,7 @@
 		)
 		(fp_arc
 			(start 9.665895 0.232486)
-			(mid 9.608851 0.223521)
+			(mid 9.608851 0.22352)
 			(end 9.552813 0.209591)
 			(stroke
 				(width 0.02)
@@ -25201,7 +25359,7 @@
 		)
 		(fp_arc
 			(start 11.06112 0.203281)
-			(mid 11.00956 0.219575)
+			(mid 11.009561 0.219577)
 			(end 10.956661 0.230777)
 			(stroke
 				(width 0.02)
@@ -25223,7 +25381,7 @@
 		)
 		(fp_arc
 			(start 11.141017 0.163002)
-			(mid 11.1022 0.185387)
+			(mid 11.102201 0.185388)
 			(end 11.06112 0.203281)
 			(stroke
 				(width 0.02)
@@ -25245,7 +25403,7 @@
 		)
 		(fp_arc
 			(start 11.179167 0.115)
-			(mid 11.19211 0.085489)
+			(mid 11.192108 0.085488)
 			(end 11.208606 0.057807)
 			(stroke
 				(width 0.02)
@@ -25256,7 +25414,7 @@
 		)
 		(fp_arc
 			(start 11.204167 -2.205)
-			(mid 11.231017 -2.159749)
+			(mid 11.231001 -2.159745)
 			(end 11.242427 -2.108386)
 			(stroke
 				(width 0.02)
@@ -25289,7 +25447,7 @@
 		)
 		(fp_arc
 			(start 11.244102 -0.791934)
-			(mid 11.257151 -0.907111)
+			(mid 11.257136 -0.907115)
 			(end 11.289404 -1.018447)
 			(stroke
 				(width 0.02)
@@ -25311,7 +25469,7 @@
 		)
 		(fp_arc
 			(start 11.275 -1.5325)
-			(mid 11.25943 -1.585701)
+			(mid 11.259433 -1.585702)
 			(end 11.254234 -1.64089)
 			(stroke
 				(width 0.02)
@@ -25333,7 +25491,7 @@
 		)
 		(fp_arc
 			(start 11.289404 -1.018447)
-			(mid 11.332334 -1.088766)
+			(mid 11.332345 -1.088751)
 			(end 11.39747 -1.139207)
 			(stroke
 				(width 0.02)
@@ -25388,7 +25546,7 @@
 		)
 		(fp_arc
 			(start 11.39747 -1.139207)
-			(mid 11.476844 -1.163766)
+			(mid 11.476848 -1.163769)
 			(end 11.559807 -1.159174)
 			(stroke
 				(width 0.02)
@@ -25410,7 +25568,7 @@
 		)
 		(fp_arc
 			(start 11.510974 -1.623193)
-			(mid 11.613398 -1.64591)
+			(mid 11.613398 -1.645912)
 			(end 11.717853 -1.655697)
 			(stroke
 				(width 0.02)
@@ -25465,7 +25623,7 @@
 		)
 		(fp_arc
 			(start 11.719507 -1.066269)
-			(mid 11.777052 -0.986313)
+			(mid 11.777055 -0.986312)
 			(end 11.81282 -0.894522)
 			(stroke
 				(width 0.02)
@@ -25509,7 +25667,7 @@
 		)
 		(fp_arc
 			(start 11.833272 -0.671635)
-			(mid 11.816122 -0.573763)
+			(mid 11.816118 -0.573766)
 			(end 11.777868 -0.48206)
 			(stroke
 				(width 0.02)
@@ -25531,7 +25689,7 @@
 		)
 		(fp_arc
 			(start 12.04831 0.174148)
-			(mid 11.922793 0.213113)
+			(mid 11.922792 0.21311)
 			(end 11.792888 0.233054)
 			(stroke
 				(width 0.02)
@@ -25542,7 +25700,7 @@
 		)
 		(fp_arc
 			(start 12.142859 -1.563822)
-			(mid 12.295098 -1.446237)
+			(mid 12.29509 -1.446228)
 			(end 12.400676 -1.285435)
 			(stroke
 				(width 0.02)
@@ -25575,7 +25733,7 @@
 		)
 		(fp_arc
 			(start 12.461405 -0.3256)
-			(mid 12.37684 -0.126025)
+			(mid 12.376845 -0.12602)
 			(end 12.244422 0.045578)
 			(stroke
 				(width 0.02)
@@ -25986,9 +26144,9 @@
 		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/45c0a738-55e9-4151-9039-1153f9b3ad96")
-		(sheetname "Root")
+		(sheetname "根目录")
 		(sheetfile "bitaxeHex.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 3 0)
@@ -26397,7 +26555,7 @@
 		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/fe374276-a800-450a-8b97-37dc549ee215")
-		(sheetname "Root")
+		(sheetname "根目录")
 		(sheetfile "bitaxeHex.kicad_sch")
 		(attr through_hole exclude_from_bom)
 		(fp_circle
@@ -26745,7 +26903,7 @@
 		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/72a97595-4798-46d2-9312-e13f123da6c6")
-		(sheetname "Root")
+		(sheetname "根目录")
 		(sheetfile "bitaxeHex.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
@@ -46055,7 +46213,7 @@
 		)
 		(property ki_fp_filters "Fiducial*")
 		(path "/d73cc603-ac46-4d66-bfa4-16293f1cd195")
-		(sheetname "Root")
+		(sheetname "根目录")
 		(sheetfile "bitaxeHex.kicad_sch")
 		(attr smd exclude_from_bom)
 		(fp_circle
@@ -48608,7 +48766,7 @@
 			)
 		)
 		(property ki_fp_filters "SOT*353*SC*70*")
-		(path "/831c2d7c-1b0c-48f0-8d88-f1b4f08c2544/7f96a95d-be50-459b-8043-cc0d7460400f")
+		(path "/831c2d7c-1b0c-48f0-8d88-f1b4f08c2544/7f13ce0c-c2de-4eac-8b49-58b79ddb88e8")
 		(sheetname "BM1366-2")
 		(sheetfile "bm1366-2.kicad_sch")
 		(attr smd)
@@ -52792,7 +52950,7 @@
 		(path "/8ec0a9c6-2b78-44ef-a83d-9047d2828409/cdaffaf0-e0fe-4fbb-a96b-86899349b774")
 		(sheetname "Power")
 		(sheetfile "power.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -1.33 -11.49)
 			(end 3.87 -11.49)
@@ -53992,7 +54150,7 @@
 		)
 		(property ki_fp_filters "Fiducial*")
 		(path "/c967f5d1-329c-4b03-be80-a60a073bb584")
-		(sheetname "Root")
+		(sheetname "根目录")
 		(sheetfile "bitaxeHex.kicad_sch")
 		(attr smd exclude_from_bom)
 		(fp_circle
@@ -58014,7 +58172,7 @@
 		)
 		(property ki_fp_filters "Fiducial*")
 		(path "/494fa5cb-79ab-4345-825e-45e5223e10a2")
-		(sheetname "Root")
+		(sheetname "根目录")
 		(sheetfile "bitaxeHex.kicad_sch")
 		(attr smd exclude_from_bom)
 		(fp_circle
@@ -64793,7 +64951,7 @@
 		)
 		(property ki_fp_filters "Fiducial*")
 		(path "/dd80c80b-7177-4759-92a8-35fb4364c4a2")
-		(sheetname "Root")
+		(sheetname "根目录")
 		(sheetfile "bitaxeHex.kicad_sch")
 		(attr smd exclude_from_bom)
 		(fp_circle
@@ -81896,7 +82054,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "10K"
+		(property "Value" "10k"
 			(at 0 -1.17 90)
 			(layer "B.Fab")
 			(uuid "2041ea4f-4205-4fa8-b963-37575673df42")
@@ -91196,6 +91354,14 @@
 		(uuid "0f9235cc-1d99-4124-ae5e-ced29d4b8fdc")
 	)
 	(segment
+		(start 68.072 60.778)
+		(end 68.072 60.198)
+		(width 1)
+		(layer "F.Cu")
+		(net 1)
+		(uuid "19a20feb-ef9c-44c5-91dd-cca7b9d8ce5f")
+	)
+	(segment
 		(start 111.6 54.1)
 		(end 113 54.1)
 		(width 0.4)
@@ -91452,6 +91618,14 @@
 		(uuid "766eae32-19c4-4bc2-8c6e-3a429874dfb1")
 	)
 	(segment
+		(start 65.07 61.14)
+		(end 67.71 61.14)
+		(width 1)
+		(layer "F.Cu")
+		(net 1)
+		(uuid "77a16f0a-732d-4d3e-87ad-04779fb605c8")
+	)
+	(segment
 		(start 84.75 54.05)
 		(end 84.4 54.4)
 		(width 0.25)
@@ -91578,6 +91752,14 @@
 		(layer "F.Cu")
 		(net 1)
 		(uuid "aa8344b5-2015-4932-a16a-105365d60406")
+	)
+	(segment
+		(start 67.71 61.14)
+		(end 68.072 60.778)
+		(width 1)
+		(layer "F.Cu")
+		(net 1)
+		(uuid "abccd62e-d456-4fa1-b941-f3d8d7e5dd59")
 	)
 	(segment
 		(start 100.775 70.975)
@@ -103771,6 +103953,14 @@
 		(uuid "b6d56a72-aaf2-4831-b692-a01c53aa6244")
 	)
 	(segment
+		(start 63.845 61.14)
+		(end 60.885 61.14)
+		(width 1)
+		(layer "F.Cu")
+		(net 55)
+		(uuid "c204c0f6-fc76-4f9c-a067-8fceea7e182a")
+	)
+	(segment
 		(start 55.545 61.99)
 		(end 58.035 61.99)
 		(width 0.2)
@@ -103801,6 +103991,14 @@
 		(layer "F.Cu")
 		(net 55)
 		(uuid "fcf464a8-5d8c-4678-a4f9-b2b9d1dd6166")
+	)
+	(segment
+		(start 60.885 61.14)
+		(end 60.725 61.3)
+		(width 0.2032)
+		(layer "F.Cu")
+		(net 55)
+		(uuid "fef85d22-1d21-4770-8bd2-2cf8acbd12eb")
 	)
 	(via
 		(at 60.725 61.3)
