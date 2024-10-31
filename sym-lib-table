@@ -2,4 +2,8 @@
   (version 7)
   (lib (name "bitaxe")(type "KiCad")(uri "${KIPRJMOD}/bitaxe.kicad_sym")(options "")(descr ""))
   (lib (name "gt-tc029b-h025-l1n")(type "KiCad")(uri "${KIPRJMOD}/gt-tc029b-h025-l1n.kicad_sym")(options "")(descr ""))
+  (lib (name "tps546d24")(type "KiCad")(uri "C:/Users/AaronCai/Documents/WPSDrive/1450919027/WPS企业云盘/佛山市禅城区友邻友里百货商店/团队文档/微芯创TinyChipHub/tps546d24.kicad_sym")(options "")(descr ""))
+  (lib (name "esp32-s3-wroom-1")(type "KiCad")(uri "C:/Users/AaronCai/Documents/WPSDrive/1450919027/WPS企业云盘/佛山市禅城区友邻友里百货商店/团队文档/微芯创TinyChipHub/esp32-s3-wroom-1.kicad_sym")(options "")(descr ""))
+  (lib (name "tc2030-idc-nl")(type "KiCad")(uri "C:/Users/AaronCai/Documents/WPSDrive/1450919027/WPS企业云盘/佛山市禅城区友邻友里百货商店/团队文档/微芯创TinyChipHub/tc2030-idc-nl.kicad_sym")(options "")(descr ""))
+  (lib (name "tmp1075ndrlr")(type "KiCad")(uri "C:/Users/AaronCai/Documents/WPSDrive/1450919027/WPS企业云盘/佛山市禅城区友邻友里百货商店/团队文档/微芯创TinyChipHub/tmp1075ndrlr.kicad_sym")(options "")(descr ""))
 )
